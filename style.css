@@ -1,3 +1,9 @@
-body  {
-    background-color: lightblue;
+.header {
+    display: flex;
+    background-color: black;
+    height: 150px;
+}
+img  {
+    width: 50px;
+    height: 100px;
 }
