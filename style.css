@@ -107,6 +107,7 @@ img.mainone {
     border-style:ridge;
     border-color: #3882f6;
     justify-content: center;
+    margin-bottom: 15px;
 }
 img.maintwo {
     display: flex;
@@ -118,6 +119,7 @@ img.maintwo {
     border-color: #3882f6;
     justify-content: center;
     max-width: 250px;
+    margin-bottom: 15px;
 }
 img.mainthree {
     display: flex;
@@ -128,6 +130,7 @@ img.mainthree {
     border-style:ridge;
     border-color: #3882f6;
     justify-content: center;
+    margin-bottom: 15px;
 }
 img.mainfour {
     display: flex;
@@ -137,6 +140,7 @@ img.mainfour {
     border-radius: 15%;
     border-style:ridge;
     border-color: #3882f6;
+    margin-bottom: 15px;
 }
 
 .imgmain    {
@@ -144,5 +148,9 @@ img.mainfour {
     justify-content: space-around;
     padding-left: 100px;
     padding-right: 100px;
+    justify-items: center;
+    text-align: center;
 }
+
+
 
