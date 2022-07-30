@@ -49,6 +49,7 @@ a.lheader {
     font-size: 48px;
     font-weight: bold;
     color: #f9faf8;
+    padding-top: 100px;
 }
 
 .pone {
@@ -71,3 +72,77 @@ a.lheader {
     padding-left: 20px;
     padding-right: 20px;
 }
+
+img.topimg  {
+    display: flex;
+    width: 500px;
+    margin-bottom: 100px;
+    border-radius: 15%;
+
+}
+
+.top {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.maintittle {
+    display: flex;
+    justify-content: center;
+    font-size: 36px;
+    font-weight: bold;
+    color: #1F2937;
+    padding: 50px;
+
+
+}
+
+img.mainone {
+    display: flex;
+    width: 250px;
+    height: 200px;
+    border: 5px;
+    border-radius: 15%;
+    border-style:ridge;
+    border-color: #3882f6;
+    justify-content: center;
+}
+img.maintwo {
+    display: flex;
+    width: 250px;
+    height: 200px;
+    border: 5px;
+    border-radius: 15%;
+    border-style:ridge;
+    border-color: #3882f6;
+    justify-content: center;
+    max-width: 250px;
+}
+img.mainthree {
+    display: flex;
+    width: 250px;
+    height: 200px;
+    border: 5px;
+    border-radius: 15%;
+    border-style:ridge;
+    border-color: #3882f6;
+    justify-content: center;
+}
+img.mainfour {
+    display: flex;
+    width: 250px;
+    height: 200px;
+    border: 5px;
+    border-radius: 15%;
+    border-style:ridge;
+    border-color: #3882f6;
+}
+
+.imgmain    {
+    display: flex;
+    justify-content: space-around;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
